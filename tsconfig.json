@@ -22,7 +22,7 @@
     "config/**/*",
     ".umirc.ts",
     "typings.d.ts"
-, "eslintrc.js"  ],
+, "eslintrc.js", "src/pages/Login"  ],
   "exclude": [
     "node_modules",
     "lib",
